@@ -4,7 +4,7 @@ package lesson13.strategyPattern;
 
 import java.util.Random;
 
-public class WeakUnit implements Power {
+public class WeakUnit implements Power{
 
     Random random = new Random();
     int id = random.nextInt(1,10);//id нужен для того чтобы имена отличались
