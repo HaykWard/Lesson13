@@ -1,5 +1,6 @@
 //Конкретный класс сильного Unit
 //Определяем что при создании объекта класса WeakUnit показатели будут от 1 до 10
+//Коммент для добавления новой ветки Fix/Bags
 package lesson13.strategyPattern;
 
 import java.util.Random;
